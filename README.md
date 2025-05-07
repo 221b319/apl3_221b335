@@ -1,3 +1,3 @@
-# apl3_221b335
+# apl3_221b3
 programs for ap lab-3
 git bash testing 1... 2... 3...
